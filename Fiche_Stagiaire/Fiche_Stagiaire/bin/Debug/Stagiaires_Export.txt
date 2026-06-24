@@ -1,0 +1,4 @@
+Code		| Nom		| Prénom		| Sexe		| DateNaissance	| Spécialité		| Note	| Filière
+------------------------------------------------------------------------------------------------------------------------
+1455		| ,ziz		| sa		| Male		| 6/2/2026	| Science math		| 14	| DAI
+4551		| sd		| rt		| Femelle		| 6/2/2026	| Science physique		| 51	| SRI

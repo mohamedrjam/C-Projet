@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\bin\Debug\Fiche_Stagiaire.exe
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\bin\Debug\Fiche_Stagiaire.pdb
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\obj\x86\Debug\Mini-Projet_CC2_Fiche_Stagiaire.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\obj\x86\Debug\Fiche_Stagiaire.Frm_StagiaireBTS.resources
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\obj\x86\Debug\Fiche_Stagiaire.Properties.Resources.resources
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\obj\x86\Debug\Mini-Projet_CC2_Fiche_Stagiaire.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\obj\x86\Debug\Mini-Projet_CC2_Fiche_Stagiaire.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\obj\x86\Debug\Fiche_Stagiaire.exe
+C:\Users\asus\Desktop\Fiche_Stagiaire\Fiche_Stagiaire\obj\x86\Debug\Fiche_Stagiaire.pdb
